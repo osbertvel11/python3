@@ -4,8 +4,8 @@
 
 print ("BIENVENIDO AL SISTEMA".center(50,"*"))
 
-print ("sleccionar opcion\n")
-print ("1.quetzales a dolares:\n")
+print ("seleccionar opcion")
+print ("1.quetzales a dolares:")
 print ("2.dolares a quetzales:")
 
 
